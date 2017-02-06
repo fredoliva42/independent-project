@@ -38,3 +38,7 @@ body{
 .underline {
   text-decoration: underline;
 }
+
+.color{
+  color: red;
+}
